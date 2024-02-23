@@ -1,25 +1,28 @@
 # SwapCard
 
-This app created to teach English.
+This application was made to learn English words
+
 ![image](https://github.com/oguzdgd/SwapCard/assets/109076888/19368070-7329-4fb4-acff-84ed0f6d4f95)
 ### Technologies we use in the application (General Flow Chart)
 
-
-You can look words on Words Page. And can add to learn later. These words are data on the internet. Words are brought from the internet with web scraping :
+#### You can look words on Words Page. And can add to learn later. These words are data on the internet. Words are brought from the internet with web scraping :
 ### Note : If you want to learn more about web scraping. You can review my this repository : https://github.com/oguzdgd/Web-Scraping-Flutter
-![Screenshot_20240222_231933](https://github.com/oguzdgd/SwapCard/assets/109076888/48ebc7e2-cd19-4084-90ba-2547819fbfcc)
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/4a8da004-5c84-4842-867b-c445efb1f04c)
 
-On this page, you can swipe the words you added left, right or up. You can swipe it to the right if it's understood, to the left if you want it to appear in front of you again, or to the top if you don't want it to appear in front of you at all.
-### ![WhatsApp Görsel 2024-02-23 saat 23 17 26_b557f898](https://github.com/oguzdgd/SwapCard/assets/109076888/c974c5e7-6d72-4820-bf74-4ea7bc9e6389) 
-### ![WhatsApp Görsel 2024-02-23 saat 23 17 26_cbce343b](https://github.com/oguzdgd/SwapCard/assets/109076888/4983d031-b69f-4c7b-9d43-ab1902a9f1d0) 
-### ![WhatsApp Görsel 2024-02-23 saat 23 17 26_d26799a4](https://github.com/oguzdgd/SwapCard/assets/109076888/a417fc0b-9cb2-41d1-aa99-9a195643751f)
+#### On this page, you can swipe the words you added left, right or up. You can swipe it to the right if it's understood, to the left if you want it to appear in front of you again, or to the top if you don't want it to appear in front of you at all.
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/f1c38dbc-5c77-4ca2-9638-3bb0ae03045f)
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/3f671f40-dad4-44b1-a775-3a934f760ff7)
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/6119ba2f-454e-4b71-bbb4-c427c17c21fb)
 
-This page is LeaderBoard Page :
-![Screenshot_20240222_231828](https://github.com/oguzdgd/SwapCard/assets/109076888/703c6aaf-6cf3-4e9e-af6f-9b36810cf77a)
+#### When you click on the page, you can see an example sentence and the Turkish equivalent of the word.
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/23bea351-7cf0-43a7-b014-3d170d89c2c1)
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/4e6911e6-8263-469a-8a78-735a9f842773)
 
-This Page is 
-![Screenshot_20240223_210151](https://github.com/oguzdgd/SwapCard/assets/109076888/f9a44934-7418-4c2f-a98e-cdd049d9429d)
+#### This page is LeaderBoard Page :
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/ab7b9628-aa7c-491d-ac2f-e88950fe72ba)
 
-
+#### This page is Profile Page: 
+You can logout and change your profile details.
+![image](https://github.com/oguzdgd/SwapCard/assets/109076888/2527dd35-8cc9-4d0a-a8e6-1133cb9bdd62)
 
 
