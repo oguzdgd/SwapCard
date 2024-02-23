@@ -22,7 +22,6 @@ This application was made to learn English words
 ![image](https://github.com/oguzdgd/SwapCard/assets/109076888/ab7b9628-aa7c-491d-ac2f-e88950fe72ba)
 
 #### This page is Profile Page: 
-You can logout and change your profile details.
 ![image](https://github.com/oguzdgd/SwapCard/assets/109076888/2527dd35-8cc9-4d0a-a8e6-1133cb9bdd62)
-
+You can logout and change your profile details.
 
